@@ -1,0 +1,121 @@
+
+. . . | . . . | 8 . .
+5 . 9 | . . . | . 7 .
+. . 1 | . 7 . | . . .
+------+-------+------
+7 . 5 | 2 . 4 | . . .
+. . 3 | . 6 . | 2 . 4
+. 6 4 | . . . | . 5 .
+------+-------+------
+. 1 . | 8 9 . | . 2 .
+. . . | 6 . . | . . 8
+. . . | 1 . 7 | 3 . .
+
+55 cells are unknown
+
+strategy two
+row 5 col 4 must be 7
+row 6 col 1 must be 2
+row 5 col 1 must be 1
+row 9 col 3 must be 8
+row 5 col 6 must be 5
+
+strategy two
+row 3 col 1 must be 8
+
+strategy one
+row 7 col 6 must be 3
+
+strategy one
+row 8 col 6 must be 2
+
+strategy one
+row 8 col 3 must be 7
+
+strategy one
+row 7 col 3 must be 6
+
+strategy one
+row 1 col 3 must be 2
+row 7 col 1 must be 4
+
+strategy one
+row 9 col 1 must be 9
+
+strategy one
+row 8 col 1 must be 3
+
+strategy one
+row 1 col 1 must be 6
+row 8 col 2 must be 5
+
+strategy one
+row 8 col 5 must be 4
+row 9 col 2 must be 2
+
+strategy one
+row 9 col 5 must be 5
+
+strategy one
+row 9 col 9 must be 6
+
+strategy one
+row 9 col 8 must be 4
+
+strategy two
+row 1 col 2 must be 7
+row 3 col 9 must be 2
+row 2 col 5 must be 2
+row 2 col 6 must be 8
+
+strategy two
+row 1 col 4 must be 4
+row 2 col 7 must be 6
+row 6 col 5 must be 8
+row 3 col 4 must be 5
+row 3 col 6 must be 6
+row 3 col 7 must be 4
+row 1 col 6 must be 9
+row 1 col 9 must be 5
+
+strategy two
+row 2 col 9 must be 1
+row 2 col 2 must be 4
+row 3 col 8 must be 9
+row 4 col 8 must be 6
+row 7 col 7 must be 5
+row 3 col 2 must be 3
+row 6 col 4 must be 9
+row 6 col 6 must be 1
+row 6 col 7 must be 7
+row 1 col 8 must be 3
+row 5 col 8 must be 8
+row 1 col 5 must be 1
+row 4 col 5 must be 3
+row 7 col 9 must be 7
+
+strategy two
+row 2 col 4 must be 3
+row 4 col 7 must be 1
+row 4 col 2 must be 8
+row 5 col 2 must be 9
+row 6 col 9 must be 3
+row 8 col 7 must be 9
+row 8 col 8 must be 1
+row 4 col 9 must be 9
+
+6 7 2 | 4 1 9 | 8 3 5
+5 4 9 | 3 2 8 | 6 7 1
+8 3 1 | 5 7 6 | 4 9 2
+------+-------+------
+7 8 5 | 2 3 4 | 1 6 9
+1 9 3 | 7 6 5 | 2 8 4
+2 6 4 | 9 8 1 | 7 5 3
+------+-------+------
+4 1 6 | 8 9 3 | 5 2 7
+3 5 7 | 6 4 2 | 9 1 8
+9 2 8 | 1 5 7 | 3 4 6
+
+ 0 cells are unknown
+
+ta daa!!!
